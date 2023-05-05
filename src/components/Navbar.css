@@ -1,0 +1,21 @@
+.navbar {
+    /* margin: 20px; */
+    justify-content: center;
+    margin: 20px;
+}
+
+#title {
+    color: #00BFFF;
+    cursor: pointer;
+}
+
+.navbar__options {
+    justify-content: center;
+    align-items: center;
+}
+.option {
+    color: gray;
+    cursor: pointer;
+}
+
+

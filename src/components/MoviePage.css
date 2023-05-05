@@ -1,0 +1,40 @@
+.moviepage {
+    margin: 0rem 10rem;
+}
+
+.movie-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-image {
+  flex: 0 0 260px;
+  margin-right: 20px;
+}
+
+.movie-image img {
+  width: 100%;
+}
+
+.movie-info {
+    color: gray;
+}
+
+.imdb {
+    font-weight: 800;
+    color: #ffcc00;
+}
+
+.rating {
+    align-items: center;
+}
+
+.length {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    color: #00BFFF;
+}
